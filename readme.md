@@ -2,7 +2,7 @@
 
 ![badge](https://img.shields.io/badge/project--07-wireless--headphone-brightgreen)
 
-# [Link of deploy live project]()
+# [Link of deploy live project](https://wirelessheadphonepage.netlify.app/)
 
 ![LCO](./view07.png)
 
